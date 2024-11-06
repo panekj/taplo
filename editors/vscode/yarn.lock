@@ -1301,9 +1301,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"even-better-toml@workspace:.":
+"even-betterer-toml@workspace:.":
   version: 0.0.0-use.local
-  resolution: "even-better-toml@workspace:."
+  resolution: "even-betterer-toml@workspace:."
   dependencies:
     "@rollup/plugin-commonjs": "npm:^25.0.7"
     "@rollup/plugin-node-resolve": "npm:^15.2.3"

@@ -1,7 +1,7 @@
 {
-  "name": "even-better-toml",
-  "displayName": "Even Better TOML",
-  "description": "Fully-featured TOML support",
+  "name": "even-betterer-toml",
+  "displayName": "Even Betterer TOML (Release Fork)",
+  "description": "Fully-featured TOML support, now available as a forked extension",
   "version": "0.21.0",
   "autoTag": {
     "enabled": true
@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/tamasfe/taplo/issues"
   },
-  "publisher": "tamasfe",
+  "publisher": "panekj",
   "author": {
     "name": "tamasfe"
   },
